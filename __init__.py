@@ -1,4 +1,3 @@
-
 from otree.api import *
 import random
 c = cu
